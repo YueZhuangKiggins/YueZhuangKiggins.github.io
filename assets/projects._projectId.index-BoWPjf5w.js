@@ -1,0 +1,1 @@
+import{b as o,j as e,N as a}from"./index-CrMahcLe.js";const s=()=>{const{projectId:t}=o.useParams();return e.jsx(a,{to:"/projects/$projectId/$tab",params:{projectId:t,tab:"pico"},replace:!0})};export{s as component};
